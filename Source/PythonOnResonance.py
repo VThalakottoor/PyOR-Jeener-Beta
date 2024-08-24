@@ -1,9 +1,10 @@
 # Python On Resonance (PyOR)
-# Author: Vineeth Thalakottoor 
+# Version: Beta (24 August 2024)
+# Author: Vineeth Francis Thalakottoor Jose Chacko
 # Email: vineethfrancis.physics@gmail.com
 # There can be mistakes. If you see anything please write to me.
 # PyOR is for the beginners (with basic knowledge of matrices, spin operators, and Python programming).
-# "Anbe Sivam"
+# "Anbe Sivam": love/compassion is god
 
 # ---------- Package
 
