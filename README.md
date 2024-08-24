@@ -1,6 +1,10 @@
-# PyOR (Python on Resonance)
-## Everybody can simulate NMR
+# Tutorials for PyOR (Python on Resonance)
+## Everybody can simulate NMR Spin Physics
 Author: Vineeth Francis THALAKOTTOOR JOSE CHACKO (vineethfrancis.physics@gmail.com)
+![PyOR logo](https://github.com/VThalakottoor/PyOR/blob/main/Images/PyOR_logo.png)
+## PyOR developers
+- Main contributor: Vineeth Francis THALAKOTTOOR JOSE CHACKO
+- Other contributors: --- (I welcome contributors after the first release of PyOR)
 
 ## Why develop PyOR when many NMR simulation packages are available? Why reinvent the wheel?
 The short answer: **"The Pleasure of Finding Things Out"**.
@@ -20,6 +24,7 @@ PyOR will be helpful for beginners (with basic knowledge of matrices, spin opera
   - Evolution in Hilbert Space
     - Unitary Propagation
     - Solve ODEs
+    - Radiation Damping, Raser/Maser (single and multi-mode) - Removed from the beta version, will reappear in version 1.
     - Relaxation Mechanisms (Redfield)
       - Phenomenological
       - Auto-correlated Random Field Fluctuation
@@ -38,5 +43,3 @@ PyOR will be helpful for beginners (with basic knowledge of matrices, spin opera
     - Relaxation (Lindbladian dissipator and thermally corrected spectral density functions)
       - Auto-correlated Dipolar Homonuclear
       - Auto-correlated Dipolar Hetronuclear
-
-# Anbe Sivam
