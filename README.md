@@ -1,4 +1,4 @@
-# Tutorials for PyOR (Python on Resonance)
+# PyOR (Python on Resonance) - beta version
 ## Everybody can simulate NMR Spin Physics
 Author: Vineeth Francis THALAKOTTOOR JOSE CHACKO (vineethfrancis.physics@gmail.com)
 ![PyOR logo](https://github.com/VThalakottoor/PyOR_beta/blob/main/Images/PyOR_logo.png)
