@@ -2,7 +2,7 @@ Hello Everyone,
 
 PyOR is a versatile NMR simulator designed for beginners. I strongly recommend using it alongside your favorite NMR textbook for the best learning experience.
 
-Please note that there may be errors, so use PyOR with caution.
+Please note that there may be errors, so use PyOR with caution. If you see any mistakes or want to share any suggestions write to me (vineethfrancis.physics@gmail.com).
 
 PyOR (version: Jeener-beta) is now yours to explore.
 
