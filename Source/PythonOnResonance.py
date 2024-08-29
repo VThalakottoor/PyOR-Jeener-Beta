@@ -5,7 +5,7 @@
 # PyOR is for the beginners (with basic knowledge of matrices, spin operators, and Python programming).
 # "Anbe Sivam": love/compassion is god
 """
-Version: B-24.08.24
+Version: Jeener-B-24.08.24
 Radiation Damping, Raser/Maser (single and multi-mode) - Removed from the beta version, will reappear in version 1.
 """
 
