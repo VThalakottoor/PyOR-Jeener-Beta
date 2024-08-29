@@ -6,7 +6,7 @@
 # "Anbe Sivam": love/compassion is god
 """
 Version: Jeener-B-24.08.24
-Radiation Damping, Raser/Maser (single and multi-mode) - Removed from the beta version, will reappear in version 1.
+Radiation Damping, Raser/Maser (single and multi-mode) - Removed from the beta version, will reappear in version Jeener-xx.xx.xx
 """
 
 # ---------- Package
